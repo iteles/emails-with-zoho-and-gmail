@@ -28,6 +28,54 @@ There are many ways to set yourself up with a business email, but these are the 
 
 This short how-to helps you set up the second option: Zoho Mail with Gmail.
 
+## How?
+There are two things to do here:
++ Get Zoho Mail to forward all of your incoming emails to your Gmail inbox
++ Set up Gmail to allow you to send emails *out* in a way that they appear to come from your *business* email account instead of your gmail account (called aliasing)
+
+Let's get started.
+
+##### 1. Sign up to [Zoho Mail](https://www.zoho.com/mail/)
+As part of the sign up process, you will be taken through a step by step process of connecting your email to your domain name.    
+This means you will have to set up `TXT` and `MX` records on your domain. You can do this by logging into the service you bought your domain from (we recommend [iwantmyname](http://www.iwantmyname.com)) and clicking on the 'Manage Domain Name Servers (DNS)' option - here you can add all of the `TXT` and `MX` required for setting up.
+
+##### 2. Log into your Zoho email using your newly set up email address
+
+##### 3. Set up email forwarding from Zoho :arrow_right: Gmail
+a. Find the Zoho Mail settings menu and click into the 'Email Forwarding' options.
+<img width="330" alt="zoho-settings" src="https://cloud.githubusercontent.com/assets/4185328/15271351/2d438bac-1a3c-11e6-9e1f-eb1748f8d653.png">
+<img width="316" alt="zoho-email-forwarding-menu" src="https://cloud.githubusercontent.com/assets/4185328/15271350/2d42d1d0-1a3c-11e6-9ff7-07992f85fc0a.png">
+
+b. Click to add an email address and add your Gmail address (the one you want to use as your main inbox) as the email you want to forward a copy of incoming messages to.
+
+c. An email will be sent to your Gmail address with a verification code which you will have to enter here to confirm you are indeed the owner of the forwarding email address.
+
+##### 4. Send yourself an email to confirm forwarding is working correctly
+Send an email to your business email address; it should now show up in your Gmail inbox!
+
+Now that you've set this up, it's time to set up your business email address as an [*alias*](https://support.google.com/a/answer/33327?hl=en).
+
+##### 5. Set up your Gmail alias
+In your Gmail settings, go to 'Accounts' and in the 'Send mail as' section, click on 'Add another email address that you own'
+
+<img width="1229" alt="gmail-send-mail-as" src="https://cloud.githubusercontent.com/assets/4185328/15271377/3a4fbbde-1a3e-11e6-8e9f-1acaad441b1d.png">
+
+This will bring up a small pop up window where you should enter your *business email address* and then follow the instructions to get it set up.
+
+The important thing here is that you'll need to fill in Zoho Mail's SMTP configuration correctly - **it is different to the values automatically filled in by google**. You can google for 'Zoho mail smtp configuration' but at the time of writing, they can be found here: https://www.zoho.com/mail/help/zoho-smtp.html
+
+<img width="621" alt="gmail-setup-new-alias" src="https://cloud.githubusercontent.com/assets/4185328/15450012/fcff41d4-1f86-11e6-8731-4f9888288c94.png">
+
+Similarly to when we were setting up Zoho Mail forwarding, Gmail will also ask for a verification code which will be sent to your *business* email address. Luckily, you've already set up your business email to arrive in your *Gmail* inbox, so you shouldn't even have to leave Gmail to get it. :relaxed:
+
+#### And you're set!
+
+To send emails using your *business email address* from *Gmail*, just click to compose a new email and select the address you want to be the **sender** from the drop-down in the 'From' field activated by the little arrow.
+
+<img width="417" alt="dwyl-email-alias" src="https://cloud.githubusercontent.com/assets/4185328/15450040/d1b1e3dc-1f87-11e6-8b47-46cce2f7b557.png">
+
+
+
 
 TODO:
 - [ ] How?
