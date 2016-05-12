@@ -2,6 +2,7 @@
 Set up your business email address for free using Zoho's free tier and manage it from your gmail account.
 
 ## Why?
+
 When it comes to emails, the most common question we are asked by those who work with us is
 >'How do I set up an email address so that it comes from my business domain name for free/cheaply? (e.g. *yournamehere*@dwyl.io)'
 
@@ -75,11 +76,11 @@ To send emails using your *business email address* from *Gmail*, just click to c
 <img width="417" alt="dwyl-email-alias" src="https://cloud.githubusercontent.com/assets/4185328/15450040/d1b1e3dc-1f87-11e6-8b47-46cce2f7b557.png">
 
 
+##### Extra tip
+You'll find that if you get an average to large amount of email, you'll quickly be wishing that your business emails stood out a little more when they land in your Gmail inbox.
 
+Follow the instructions here: https://support.google.com/mail/answer/118708?hl=en (or google for it if this link no longer works!)
 
-TODO:
-- [ ] How?
-  - [ ] Set up Zoho Mail with MX & TXT records
-  - [ ] Set up email forwarding in Zoho Mail
-  - [ ] Set up alias in Gmail
-  - [ ] Set up a label in gmail so it's very obvious
+Lastly, Gmail labels are grey by default so *remember to also change the colour of your label to make it stand out!* 
+
+##  :star2: Good luck with your new business! :star2:
