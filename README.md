@@ -2,14 +2,15 @@
 Set up your business email address for free using Zoho's free tier and manage it from your gmail account.
 
 ## Why?
+We work with a lot of very early stage startups who are still working on testing out their idea by [building their minimum viable product (MVP)](http://www.dwyl.io). They often have exactly zero money to spend outside of the strictly necessary expenses.
 
-When it comes to emails, the most common question we are asked by those who work with us is
+When it comes to emails, the most common question we are asked by these startups is
 >'How do I set up an email address so that it comes from my business domain name for free/cheaply? (e.g. *yournamehere*@dwyl.io)'
 
 The next question is usually
-> How do I manage this from gmail so I can send and receive all of my email from one place?
+> How do I manage this from gmail so I can send and receive all of my email (personal and business) from one place?
 
-So we wrote up this quick how-to guide so that we had somewhere to direct folks to.
+So we wrote up this quick how-to guide so that we had somewhere to direct folks to (and hopefully be helpful to anyone who finds it!).
 
 *Note: This focuses on Zoho Mail because at the time of writing it is the simplest free solution we have found for this purpose. However, the concepts of setting up email forwarding and aliasing can be adapted to other email providers.*
 
@@ -21,7 +22,7 @@ There are many ways to set yourself up with a business email, but these are the 
   + Very guided set up with good customer service
   + *Is it worth the money?* We send out calendar invitations for calls and share Google docs regularly with clients. For us, having these come from a business email address and the convenience factor is worth the monthly fee 
 + **Set up a free email service (in this case Zoho Mail) and link it up to your regular Gmail inbox**
-  + Free 
+  + Free ([with some limitations](https://www.zoho.com/mail/zohomail-pricing.html))
   + A bit more of a pain to set up (hence this small how-to)
   + Allows you to manage all of your emails in one place, from your Gmail inbox, using the interface you're used to
   + A great solution if you're bootstrapping a very early stage start up and can't invest anything in it just yet
