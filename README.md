@@ -1,5 +1,8 @@
-# Setting up your business email with Zoho Mail & Gmail
+# Setting up your business email with Zoho Mail & Gmail
 Set up your business email address for free using Zoho's free tier and manage it from your gmail account.
+
+<img width="200" alt="gmail-logo" align="center" src="http://insideindustrynews.com/wp-content/uploads/2014/10/Gmail-logo.jpg">    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="300" alt="zohomail-logo" align="center" src="https://cloud.githubusercontent.com/assets/4185328/15450156/5c3bbf6a-1f8c-11e6-915e-839f70a91270.png">
+
 
 ## Why?
 We work with a lot of very early stage startups who are still working on testing out their idea by [building their minimum viable product (MVP)](http://www.dwyl.io). They often have exactly zero money to spend outside of the strictly necessary expenses.
